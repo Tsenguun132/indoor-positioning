@@ -2,11 +2,11 @@
 
 An application that maps indoor positioning. 
 
-## Project Files
+## Project 
 
 Clone to run app
 
-## Technologies used
+## Technologies and Frameworks used
 
 Swift\
 UIKit\
