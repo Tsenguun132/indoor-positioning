@@ -1,0 +1,6 @@
+framework module Pods_TestMapAppTests {
+  umbrella header "Pods-TestMapAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
